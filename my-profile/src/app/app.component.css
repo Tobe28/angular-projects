@@ -1,0 +1,33 @@
+h3 {
+  border-bottom: 1px solid black;
+  margin-top: 5px;
+  margin-bottom: 7.5px;
+}
+.wrapper {
+  width: 5000px;
+  overflow: hidden;
+}
+.cv {
+  border: 2px solid black;
+  border-radius: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  float: left;
+}
+.cvText {
+  
+}
+.hobby {
+  margin-left: 6%;
+  margin-right: 89%;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  overflow: hidden;
+}
+.hobbyText {
+
+}
